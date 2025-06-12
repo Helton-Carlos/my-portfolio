@@ -1,0 +1,24 @@
+<svg width="62" height="64" viewBox="0 0 62 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="31.0984" cy="32.0297" rx="30.9104" ry="31.2" fill="url(#paint0_linear_1197_1471)"/>
+<g filter="url(#filter0_i_1197_1471)">
+<path d="M29.0463 29.9931C29.0463 29.9931 31.5642 29.8016 31.5642 26.7862C31.5642 23.7733 29.8565 22.2881 27.2464 22.2881L18.3047 22.2739V38.9244H27.4543C27.4543 38.9244 32.0291 39.0692 32.0291 33.9292C32.0291 33.9292 32.3652 29.9931 29.0463 29.9931ZM21.6318 24.7715H26.2066C26.2066 24.7715 27.772 24.7973 27.772 26.8287C27.772 28.9341 26.2066 28.9341 26.2066 28.9341H21.6318V24.7715ZM26.6225 36.4268H21.6318V31.4317H26.6225C26.6225 31.4317 29.1179 31.4575 29.1179 33.9292C29.1179 36.401 26.9819 36.4268 26.6225 36.4268Z" fill="white"/>
+<path d="M39.0995 26.4368C32.8503 26.4368 32.8611 32.6808 32.8611 32.6808C32.8611 32.6808 32.4452 38.9247 39.0995 38.9247C39.0995 38.9247 44.922 38.9247 44.922 33.9295H41.5948C41.5948 33.9295 41.5948 36.4271 39.0995 36.4271C39.0995 36.4271 36.6041 36.4271 36.6041 33.097C36.6041 33.097 43.2584 33.097 44.922 33.097C44.922 31.432 44.922 26.4368 39.0995 26.4368ZM36.6041 31.432C36.6041 31.432 36.5492 28.9344 39.0995 28.9344C41.6489 28.9344 41.5948 31.432 41.5948 31.432H36.6041Z" fill="white"/>
+<path d="M42.427 23.9391H35.7727V25.6041H42.427V23.9391Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_i_1197_1471" x="15.6431" y="16.285" width="29.9443" height="30.4274" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="0.482975"/>
+<feGaussianBlur stdDeviation="1.20744"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_1197_1471"/>
+</filter>
+<linearGradient id="paint0_linear_1197_1471" x1="5.63297" y1="5.48018" x2="57.6692" y2="61.2247" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1"/>
+</linearGradient>
+</defs>
+</svg>
